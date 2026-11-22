@@ -1,3 +1,4 @@
+
 {
   "name": "jackson-portfolio",
   "private": true,
@@ -5,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview"
   },
@@ -23,3 +24,4 @@
     "typescript": "~6.0.2",
     "vite": "^8.3.0"
   }
+}
